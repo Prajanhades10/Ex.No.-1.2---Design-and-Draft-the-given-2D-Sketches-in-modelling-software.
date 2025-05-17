@@ -37,7 +37,7 @@
 
  ## OUTPUT
 
- ![Screenshot 2025-04-09 100722](https://github.com/user-attachments/assets/e17cff8a-d4af-4041-89ba-a4842c473193)
+![Screenshot 2025-04-09 100722](https://github.com/user-attachments/assets/d9173fa8-6ba9-44c2-b9b2-f3d98eca03f2)
 
 
  
